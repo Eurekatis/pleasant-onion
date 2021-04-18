@@ -72,7 +72,7 @@ sections:
   - section_id: features-two-col
     type: section_grid
     title: Savoirs faire
-    subtitle: An optional subtitle of the section
+    subtitle: Une gestion en toute tranquilité
     col_number: two
     grid_items:
       - title: Gestion de projet sur mesure
